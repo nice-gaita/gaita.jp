@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+
+[markup.highlight]
+  noClasses = false
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  showLastUpdated = false
