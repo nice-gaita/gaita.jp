@@ -1,18 +1,12 @@
 baseURL = "/"
-languageCode = "ja"
+languageCode = "en-us"
 theme = "terminal"
 paginate = 5
-defaultContentLanguage = "jp"
-
-title = "株式会社ガイタ"
 
 [markup.highlight]
   noClasses = false
 
 [params]
-
-  subtitle = "Think Nice! Do Nice!"
-
   contentTypeName = "posts"
   showMenuItems = 2
   fullWidthTheme = false
