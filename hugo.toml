@@ -4,7 +4,7 @@ theme = "terminal"
 paginate = 5
 defaultContentLanguage = "jp"
 
-title = "株式会社ガイタ"
+title = "GAITA Inc."
 
 [markup.highlight]
   noClasses = false
@@ -19,3 +19,23 @@ title = "株式会社ガイタ"
   centerTheme = false
   autoCover = true
   showLastUpdated = false
+
+  [[params.social]]
+    name = "gaichan"
+    url = "/"
+
+  [[params.social]]
+    name = "x"
+    url = "/"
+
+  [[params.social]]
+    name = "youtube"
+    url = "/"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "/"
+
+  [[params.social]]
+    name = "buy me a coffee"
+    url = "/"
