@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on GAITA Inc.</title>
+    <link>//localhost:1313/service/</link>
+    <description>Recent content in Services on GAITA Inc.</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>事業内容（IT開発）</title>
+      <link>//localhost:1313/service/development/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/service/development/</guid>
+      <description>現在メンテナンス中です🙇‍♀️</description>
+    </item>
+    <item>
+      <title>事業内容（リフォーム）</title>
+      <link>//localhost:1313/service/reform/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/service/reform/</guid>
+      <description>現在メンテナンス中です🙇‍♀️</description>
+    </item>
+  </channel>
+</rss>

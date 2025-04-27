@@ -22,20 +22,20 @@ title = "GAITA Inc."
 
   [[params.social]]
     name = "gaichan"
-    url = "/"
+    url = "/company/message/"
 
   [[params.social]]
-    name = "x"
-    url = "/"
+    name = "building"
+    url = "/company/overview/"
 
   [[params.social]]
-    name = "youtube"
-    url = "/"
+    name = "screwdriver-wrench"
+    url = "/service/reform/"
 
   [[params.social]]
-    name = "linkedin"
-    url = "/"
+    name = "computer"
+    url = "/service/development/"
 
   [[params.social]]
-    name = "buy me a coffee"
-    url = "/"
+    name = "paper-plane"
+    url = "mailto:nice.gaita@gmail.com?subject=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B&body=%E3%81%93%E3%81%A1%E3%82%89%E3%81%AB%E3%81%94%E8%A8%98%E5%85%A5%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82"

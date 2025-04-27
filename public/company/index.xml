@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Companies on GAITA Inc.</title>
+    <link>//localhost:1313/company/</link>
+    <description>Recent content in Companies on GAITA Inc.</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/company/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>代表のメッセージ</title>
+      <link>//localhost:1313/company/message/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/company/message/</guid>
+      <description>みなさまへ&#xA;株式会社ガイタのホームページをご覧いただき、誠にありがとうございます。&#xA;私たちは&#xA;&amp;ldquo;Think Nice! Do Nice!&amp;rdquo;&#xA;素敵なことを考え、素敵なことをしよう！&#xA;というミッションを掲げ、 社会に対してポジティブな変化を生み出すことを目指しています。&#xA;何事も、まず「良いことを考える」ことから始め、 そして「良い行動に移す」ことで、周囲に笑顔と活力を広げていく——&#xA;それが私たちの原点であり、これからも変わることのない信念です。&#xA;これからも一歩ずつ、しかし確実に、 皆さまの期待を超えるサービスをお届けしてまいります。&#xA;引き続き、株式会社ガイタをどうぞよろしくお願いいたします。&#xA;株式会社ガイタ&#xA;代表取締役　熊谷　勝太</description>
+    </item>
+    <item>
+      <title>会社概要</title>
+      <link>//localhost:1313/company/overview/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/company/overview/</guid>
+      <description>現在メンテナンス中です🙇‍♀️</description>
+    </item>
+  </channel>
+</rss>
