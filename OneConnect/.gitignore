@@ -1,0 +1,19 @@
+# 機密ファイル・環境ファイル
+credentials.json
+.env
+token.pickle
+credentials.json:Zone.Identifier
+
+# Python 仮想環境関連
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# venv 関連（pyvenv.cfg, lib, bin など）
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
